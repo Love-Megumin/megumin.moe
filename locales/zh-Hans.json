@@ -77,13 +77,13 @@
 	},
 	"no-one-can-compete": {
 		"large-text": "没有人能比得过她",
-		"sub-text": "仔细想想吧，凭什么珈百璃、拉菲尔或是薇奈特能称为最好？",
+		"sub-text": "仔细想想吧，凭什么阿库娅、达克尼斯或是维兹能称为最好？",
 		"table": {
 			"names": {
 				"satania": "惠惠",
-				"gabriel": "珈百璃",
-				"vignette": "薇奈特",
-				"raphiel": "拉菲尔"
+				"gabriel": "阿库娅",
+				"vignette": "维兹",
+				"raphiel": "达克尼斯"
 			},
 			"goals-in-life": {
 				"category": "拥有人（?）生目标",
@@ -123,19 +123,19 @@
 		"sub-text": "她们乍一看很可爱，但如果知道真相就不会那样了",
 		"the-others-are-trash": {
 			"gabriel": {
-				"name": "珈百璃",
+				"name": "阿库娅",
 				"name-detail": "天真 · 怀特<br /> <span lang=\"ja\">天真=ガヴリール=ホワイト</span>",
 				"description": {
 					"argument-1": "<b>完全没救了的宅 没有魅力</b>",
 					"argument-2": "很怀疑是否有存在的价值",
 					"argument-3": "喜欢她的人只是因为有一种同类感罢了",
-					"argument-4": "<b>与珈百璃有瓜葛是一件很可怕的事情</b>",
+					"argument-4": "<b>与阿库娅有瓜葛是一件很可怕的事情</b>",
 					"argument-5": "<b>她曾经有一堆劣质的杀必死镜头</b><br />比如胖次镜头和其他的一些奇怪的摄影角度",
 					"argument-6": "<b>基本就是一只小埋</b>"
 				}
 			},
 			"raphiel": {
-				"name": "拉菲尔",
+				"name": "达克尼斯",
 				"name-detail": "白羽 · 恩兹沃斯<br /> <span lang=\"ja\">白羽=ラフィエル=エインズワース</span>",
 				"description": {
 					"argument-1": "<b>抖S，以他人的不幸为乐</b>",
@@ -147,7 +147,7 @@
 				}
 			},
 			"vignette": {
-				"name": "薇奈特",
+				"name": "维兹",
 				"name-detail": "月乃濑 · 艾普利尔<br /> <span lang=\"ja\">月乃瀬=ヴィネット=エイプリル</span>",
 				"description": {
 					"argument-1": "<b>太无聊啦</b>",
@@ -168,7 +168,7 @@
 	"autism": {
 		"large-text": "惠惠不是自闭症<br />别再那样说了",
 		"sub-text": "自闭症患者通常有社交障碍<br />自己躲在角落里自言自语<br />惠惠可不是这样<br /><b>至少不比你自闭吧</b>",
-		"small-text": "她在那集里说“我是”是因为拉菲尔逼她这么说的！"
+		"small-text": "她在那集里说“我是”是因为达克尼斯逼她这么说的！"
 	},
 	"pope-francis": {
 		"large-text": "甚至教皇弗朗西斯都喜欢惠惠",
@@ -176,15 +176,15 @@
 	},
 	"flipping-cards": {
 		"large-text": "她是取代节目中所有老婆的存在",
-		"sub-text": "请你想一想吧，惠惠是可以完美替代《珈百璃的堕落》中的所有角色的<span class=\"small\">点击下面的卡片查看答案<noscript>没有 JavaScript 的话你什么都做不了 (～o￣3￣)～</noscript></span>",
+		"sub-text": "请你想一想吧，惠惠是可以完美替代《阿库娅的堕落》中的所有角色的<span class=\"small\">点击下面的卡片查看答案<noscript>没有 JavaScript 的话你什么都做不了 (～o￣3￣)～</noscript></span>",
 		"cards": {
 			"gabriel": {
 				"question": "你需要那种<br /> <b>不是很优秀<br />对周围的人完全不在意</b><br />认为自己的爱好比任何事都重要的女孩么？",
 				"answer": "那么你需要一只<br /><b> 不爱学习<br />不关心人类和天使<br />总是尝试做恶作剧</b>的惠惠<br /> 另外， <b>她还“故意”不写家庭作业……</b>"
 			},
 			"vigne": {
-				"question": "你喜欢<br /><b> 想要做恶作剧但是并不擅长</b> <br />反而变成做<br />像珈百璃本应该做的好事的<br /><b> 可爱又萌萌哒 </b><br />恶魔吗？",
-				"answer": "那你一定喜欢这只<br /><b> 野心成为最大恶魔 </b><br />但常常变成<b><br />做好事</b>的<br />惠惠<br />而且她一直都想好好给珈百璃“上一课”"
+				"question": "你喜欢<br /><b> 想要做恶作剧但是并不擅长</b> <br />反而变成做<br />像阿库娅本应该做的好事的<br /><b> 可爱又萌萌哒 </b><br />恶魔吗？",
+				"answer": "那你一定喜欢这只<br /><b> 野心成为最大恶魔 </b><br />但常常变成<b><br />做好事</b>的<br />惠惠<br />而且她一直都想好好给阿库娅“上一课”"
 			},
 			"raphiel": {
 				"question": "你想要一位<br /><b> 虽然外表很可爱 </b><br />但实际上<br /><b> 性格很扭曲 </b><br />喜欢看其他人不幸的女孩子吗？",
