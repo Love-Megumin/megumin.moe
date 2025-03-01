@@ -11,7 +11,7 @@
 		"mobile-disclaimer": "很抱歉！手机页面是赶工做出来的，排版很糟糕，反正我猜也没人用手机来访问这个页面 (￣▽￣) ",
 		"language-protip": " 你想以 <b>简体中文</b> 来查看这个页面吗？<br />用这个下拉菜单来选择语言！",
 		"language-select": "切换语言<i class=\"fas fa-angle-down\"></i>",
-		"credits": "由自称是<b title=\"Kenyérlángos\">Pizzacus&trade;</b>的人制作（翻译者：落叶君）",
+		"credits": "由自称是<b title=\"Kenyérlángos\">Pizzacus&trade;</b>的人制作（翻译者：Love-Megumin）",
 		"music-player": {
 			"intro": {
 				"bold-text": "想一边听天籁之音一边浏览这个页面嘛?",
@@ -175,16 +175,16 @@
 		"sub-text": "“惠惠在我心中是第二位的老婆，第一位当然是耶稣。<br />为惠惠及其支持者献上神的祝福！”"
 	},
 	"flipping-cards": {
-		"large-text": "她是取代节目中所有老婆的存在",
-		"sub-text": "请你想一想吧，惠惠是可以完美替代《阿库娅的堕落》中的所有角色的<span class=\"small\">点击下面的卡片查看答案<noscript>没有 JavaScript 的话你什么都做不了 (～o￣3￣)～</noscript></span>",
+		"large-text": "她是取代动漫中所有老婆的存在",
+		"sub-text": "请你想一想吧，惠惠是可以完美替代《珈百璃的堕落》中的所有角色的<span class=\"small\">点击下面的卡片查看答案<noscript>没有 JavaScript 的话你什么都做不了 (～o￣3￣)～</noscript></span>",
 		"cards": {
 			"gabriel": {
 				"question": "你需要那种<br /> <b>不是很优秀<br />对周围的人完全不在意</b><br />认为自己的爱好比任何事都重要的女孩么？",
 				"answer": "那么你需要一只<br /><b> 不爱学习<br />不关心人类和天使<br />总是尝试做恶作剧</b>的惠惠<br /> 另外， <b>她还“故意”不写家庭作业……</b>"
 			},
 			"vigne": {
-				"question": "你喜欢<br /><b> 想要做恶作剧但是并不擅长</b> <br />反而变成做<br />像阿库娅本应该做的好事的<br /><b> 可爱又萌萌哒 </b><br />恶魔吗？",
-				"answer": "那你一定喜欢这只<br /><b> 野心成为最大恶魔 </b><br />但常常变成<b><br />做好事</b>的<br />惠惠<br />而且她一直都想好好给阿库娅“上一课”"
+				"question": "你喜欢<br /><b> 想要做恶作剧但是并不擅长</b> <br />反而变成做<br />像珈百璃本应该做的好事的<br /><b> 可爱又萌萌哒 </b><br />恶魔吗？",
+				"answer": "那你一定喜欢这只<br /><b> 野心成为最大恶魔 </b><br />但常常变成<b><br />做好事</b>的<br />惠惠<br />而且她一直都想好好给珈百璃“上一课”"
 			},
 			"raphiel": {
 				"question": "你想要一位<br /><b> 虽然外表很可爱 </b><br />但实际上<br /><b> 性格很扭曲 </b><br />喜欢看其他人不幸的女孩子吗？",
