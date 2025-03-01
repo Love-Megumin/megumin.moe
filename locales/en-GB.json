@@ -1,220 +1,212 @@
 {
 	"main-intro": {
-		"name": "惠惠",
-		"best-waifu-ever": "最好的老婆！ <b>没有之一</b>",
-		"join-discord": "<i class=\"fab fa-discord\"></i>加入 Discord",
-		"discord-count": "<span id=\"discord-number\"></span> 名成员",
-		"join-reddit": "<i class=\"fab fa-reddit-alien\"></i>加入 Subreddit",
-		"reddit-count": "<span id=\"reddit-number\"></span> 订阅者",
-		"language-warning": "(注意：这些论坛都使用英语作为主要语言)",
-		"scroll-notice": "<i class=\"fas fa-arrow-down\"></i> 更多",
-		"mobile-disclaimer": "很抱歉！手机页面是赶工做出来的，排版很糟糕，反正我猜也没人用手机来访问这个页面 (￣▽￣) ",
-		"language-protip": " 你想以 <b>简体中文</b> 来查看这个页面吗？<br />用这个下拉菜单来选择语言！",
-		"language-select": "切换语言<i class=\"fas fa-angle-down\"></i>",
-		"credits": "由自称是<b title=\"Kenyérlángos\">Pizzacus&trade;</b>的人制作（翻译者：Love-Megumin）",
+		"name": "Satania",
+		"best-waifu-ever": "The best Waifu. <b>Ever.</b>",
+		"join-discord": "<i class=\"fab fa-discord\"></i>Join the Discord",
+		"discord-count": "<span id=\"discord-number\"></span> members",
+		"join-reddit": "<i class=\"fab fa-reddit-alien\"></i>Join the Subreddit",
+		"reddit-count": "<span id=\"reddit-number\"></span> subscribers",
+		"language-warning": "(These communities use English as their primary language)",
+		"scroll-notice": "<i class=\"fas fa-arrow-down\"></i>Scroll to learn more!",
+		"mobile-disclaimer": "I am really sorry, but the mobile version of this website was kinda rushed and <b>it's really shit</b>, I didn't think anyone would visit it on a phone tbh.",
+		"language-protip": "<!-- Note for translators, change \"English\" to the name of your language of course -->Would you like to view this website in <b>English</b>?<br />Use this drop-down to select a language!",
+		"language-select": "Language<i class=\"fas fa-angle-down\"></i>",
+		"credits": "A glorious shitpost by some pizza named <b title=\"Kenyérlángos\">Pizzacus&trade;</b>",
 		"music-player": {
 			"intro": {
-				"bold-text": "想一边听天籁之音一边浏览这个页面嘛?",
-				"small-text": "点击左侧的播放按钮吧！"
+				"bold-text": "Wanna listen to a devilish song while browsing this page?",
+				"small-text": "Press the play button on the left!"
 			},
 			"metadata": {
 				"title": "Satania Drop",
 				"author": "[LIMITED DAYS]"
 			},
-			"countdown": "离惠惠的歌声还有<span id=\"time-until-satania\"></span>秒",
-			"footer": "你也可以在这些 404 网站听这首歌： <a href=\"https://www.youtube.com/watch?v=4NDCOxnHb8o\">YouTube</a> 或者 <a href=\"https://soundcloud.com/limiteddays/satania-drop-free-flp-come-to-my-youtube\">SoundCloud</a>"
-		},
-		"dev-announcement": {
-			"line-1": "我们需要你的帮助！",
-			"line-2": "在过去的两年里，惠惠的堕落(Satania&nbsp;Dropout)已经发展成为了一个联系上千人的大社区。",
-			"line-3": "现在，是时候向着更远的目标进发了！<br />为此，<b>我们需要网络工程师的协助。</b>",
-			"line-4": "如果你在<b>网络开发</b>方面有特长并且想了解更多详细信息，<br />请阅读我们关于此的博客。",
-			"line-5": "希望我们不久后能在网络后台页面相见。",
-			"line-6": "了解更多 →"
+			"countdown": "Satania sings in <span id=\"time-until-satania\"></span> seconds.",
+			"footer": "You can also listen on <a href=\"https://www.youtube.com/watch?v=4NDCOxnHb8o\">YouTube</a> and <a href=\"https://soundcloud.com/limiteddays/satania-drop-free-flp-come-to-my-youtube\">SoundCloud</a>."
 		}
 	},
 	"become-a-satania-follower": {
-		"large-text": "现在就成为<br />惠惠的追随者！",
-		"sub-text": "<b>当一位惠惠的追随者<br />不需要什么特别的步骤</b><br />你所要做的就是<br />接受惠惠是&nbsp;<b>最好</b>&nbsp;的角色这个事实",
-		"small-text": "当然如果你能做一些关于惠惠的投稿的话，就是对我们莫大的帮助……"
+		"large-text": "Become a Satania follower today!",
+		"sub-text": "<b>There are no steps to becoming a Satania follower</b>, all&nbsp;you have to do is to accept that Satania is the&nbsp;best&nbsp;character",
+		"small-text": "Well, If you could make Satania memes and shitposts, that would help us a lot…"
 	},
 	"she-is-beautiful": {
-		"large-text": "楚楚动人的笑容<br />妩媚迷离的双眼 <br /> 白璧无瑕的外貌",
-		"sub-text": "她正是 <b>灿如春华，皎如秋月</b> 的完美体现",
-		"small-text": "我们的支持者都是受过高等教育的文人，话说也会用高等文明语言"
+		"large-text": "A lovely smile.<br /> Two magnificent eyes.<br /> A stunning appearance.",
+		"sub-text": "She's a really <b>pulchritudinous</b> person",
+		"small-text": "We Satania followers are very cultured people, so we only use a very cultured language"
 	},
 	"end-the-waifu-war": {
-		"large-text": "最好的小恶魔老婆<br />专属于您",
-		"sub-text": "<b>世界最可爱的小恶魔~</b><br />是时候结束每三个月换一次老婆了！！！"
+		"large-text": "The best demon Waifu just&nbsp;for&nbsp;you.",
+		"sub-text": "Let's end the waifu war with the <b>most kawaii demon in the world</b>!"
 	},
 	"she-is-perfect": {
-		"large-text": "简而言之，两个字：“完美”",
-		"sub-text": "那是连谷歌都知道的事实",
-		"searchbar-name": "惠惠",
+		"large-text": "In short, she's just perfect.",
+		"sub-text": "Even Google knows.",
+		"searchbar-name": "satania",
 		"google-definition": {
-			"name": "完美",
-			"prononciation": "/wánměi/",
-			"noun": "形容词 / 动词",
+			"name": "perfection",
+			"prononciation": "/pəˈfɛkʃ(ə)n/",
+			"noun": "noun",
 			"definition-1": {
-				"definition": "完备美好; 没有缺陷。",
-				"example": "“<b>惠惠</b>的皮肤很完美。”",
-				"synonyms": "同义词：",
-				"synonyms-list": "惠惠，无瑕，卓越，气质高尚，精致， 华丽，完美无缺<br /> “惠惠的皮肤完美无缺。”"
+				"definition": "the state or quality of being perfect.",
+				"example": "\"the satiny perfection of <b>Satania</b>'s skin\"",
+				"synonyms": "synonyms:",
+				"synonyms-list": "Satania, flawlessness, excellence, superbness, sublimity, exquisiteness, magnificence, perfectness, faultlessness, impeccability, immaculateness, exemplariness<br />\"the satiny perfection of her skin\""
 			},
 			"definition-2": {
-				"definition": "被认为是完美的人或事物。",
-				"example": "“我说过了，<b>惠惠</b>本身就是完美。”",
-				"synonyms": "同义词：",
-				"synonyms-list": "惠惠，究极，超级，最终形态，顶点，至高，理想级别<br />“为了惠惠，我们这些支持者总是完美的。”"
+				"definition": "a person or thing considered to be perfect.",
+				"example": "\"I am told that <b>Satania</b> is perfection itself\"",
+				"synonyms": "synonyms:",
+				"synonyms-list": "Satania, the ideal, a paragon, the ne plus ultra, the beau idéal, a nonpareil, the crème de la crème, the last word, the ultimate, a dream; <i>informal</i> one in a million, the tops, the best/greatest thing since sliced melon bread, the bee's knees; <i>archaic</i> a nonesuch<br />\"for her, he was still perfection\""
 			},
 			"definition-3": {
-				"definition": "改进某物直到完美为止的行为或过程。",
-				"example": "“我一整天都在忙着完美这副<b>惠惠</b>的画像。”",
-				"synonyms": "同义词：",
-				"synonyms-list": "惠惠，改善，改良，精进，进步<br />“这份文件还需要完美一下。”"
+				"definition": "the action or process of improving something until it is faultless.",
+				"example": "\"I worked all day on the perfection of my <b>Satania</b> drawing\"",
+				"synonyms": "synonyms:",
+				"synonyms-list": "Satania, improvement, betterment, refinement, refining, perfecting, polishing, amelioration; <i>rare</i> melioration<br />\"the perfection of new mechanisms of economic management\""
 			}
 		}
 	},
 	"no-one-can-compete": {
-		"large-text": "没有人能比得过她",
-		"sub-text": "仔细想想吧，凭什么阿库娅、达克尼斯或是维兹能称为最好？",
+		"large-text": "No one can compete.",
+		"sub-text": "Just think about it, why would Gabriel, Raphi or Vignette be the best?",
 		"table": {
 			"names": {
-				"satania": "惠惠",
-				"gabriel": "阿库娅",
-				"vignette": "维兹",
-				"raphiel": "达克尼斯"
+				"satania": "Satania",
+				"gabriel": "Gabriel",
+				"vignette": "Vignette",
+				"raphiel": "Raphiel"
 			},
 			"goals-in-life": {
-				"category": "拥有人（?）生目标",
-				"satania": "(成为地狱女王)",
-				"gabriel": "(带来世界末日)"
+				"category": "Has goals in life",
+				"satania": "(Becoming the queen of hell)",
+				"gabriel": "(Bringing armageddon)"
 			},
 			"hard-challenges": {
-				"category": "有挑战过巨大困难的经验",
-				"satania": "(驯服那条狗)"
+				"category": "Has surmounted hard challenges",
+				"satania": "(Taming the dog)"
 			},
 			"tries-her-best": {
-				"category": "尽最大努力而保住在天使/恶魔学校的学籍",
-				"vignette": "一点点？"
+				"category": "Tries her best not to fail heaven/hell school",
+				"vignette": "Kinda?"
 			},
 			"powerfull-allies": {
-				"category": "有强大的技能",
-				"satania": "(那条狗 &amp; 使魔)",
-				"vignette": "(使魔)"
+				"category": "Has powerful allies",
+				"satania": "(The dog &amp; her familiar)",
+				"vignette": "(Her familiar)"
 			},
 			"tragic-backstory": {
-				"category": "有一段悲惨的过去/背景故事",
-				"satania": "(校园欺凌)"
+				"category": "Has a deep, tragic backstory",
+				"satania": "(Bullied at school)"
 			},
-			"member-favorites": "MyAnimeList* 上的喜爱人数",
-			"subreddit-subs": "subreddit* 上的支持人数",
+			"member-favorites": "Number of member favourites on MAL*",
+			"subreddit-subs": "Number of subs on their subreddit*",
 			"e-hentai": {
-				"category": "e-hentai* 上的同人本子数目",
-				"satania": "(其中有一本非常糟糕)"
+				"category": "Number of Doujinshi on e-hentai*",
+				"satania": "(One of which is hilarious)"
 			},
-			"rule34": "rule34.xxx* 上的画像数目",
-			"gelbooru": "gelbooru* 上的画像数目"
+			"rule34": "Number of pics on rule34.xxx*",
+			"gelbooru": "Number of pics on gelbooru*"
 		},
-		"as-of": "*更新日期为 <span id=\"last-updated\"></span>"
+		"as-of": "*As of <span id=\"last-updated\"></span>"
 	},
 	"the-others-are-trash": {
-		"large-text": "其他角色都是辣鸡，没有例外",
-		"sub-text": "她们乍一看很可爱，但如果知道真相就不会那样了",
+		"large-text": "The other characters are trash, no exception.",
+		"sub-text": "They may be cute, but when you know the facts, they really aren't.",
 		"the-others-are-trash": {
 			"gabriel": {
-				"name": "阿库娅",
-				"name-detail": "天真 · 怀特<br /> <span lang=\"ja\">天真=ガヴリール=ホワイト</span>",
+				"name": "Gabriel",
+				"name-detail": "Tenma White<br /> <span lang=\"ja\">天真=ガヴリール=ホワイト</span>",
 				"description": {
-					"argument-1": "<b>完全没救了的宅 没有魅力</b>",
-					"argument-2": "很怀疑是否有存在的价值",
-					"argument-3": "喜欢她的人只是因为有一种同类感罢了",
-					"argument-4": "<b>与阿库娅有瓜葛是一件很可怕的事情</b>",
-					"argument-5": "<b>她曾经有一堆劣质的杀必死镜头</b><br />比如胖次镜头和其他的一些奇怪的摄影角度",
-					"argument-6": "<b>基本就是一只小埋</b>"
+					"argument-1": "<b>Lazy NEET who is 100% unlikeable</b>",
+					"argument-2": "No seriously, she has no redeeming qualities",
+					"argument-3": "People only like her because she may be relatable for them",
+					"argument-4": "<b>And being able to relate to Gab is a horrible thing</b>",
+					"argument-5": "<b>She's used for a ton of shitty fanservice</b>, like panty-shots and other questionable camera angles",
+					"argument-6": "<b>She's basically Umaru</b>"
 				}
 			},
 			"raphiel": {
-				"name": "达克尼斯",
-				"name-detail": "白羽 · 恩兹沃斯<br /> <span lang=\"ja\">白羽=ラフィエル=エインズワース</span>",
+				"name": "Raphiel",
+				"name-detail": "Shiraha Ainsworth<br /> <span lang=\"ja\">白羽=ラフィエル=エインズワース</span>",
 				"description": {
-					"argument-1": "<b>抖S，以他人的不幸为乐</b>",
-					"argument-2": "无论从哪个方面说都没有令人满意的点",
-					"argument-3": "除非你也是一个抖 S（M？ 咦惹……）",
-					"argument-4": "<b>极有可能是一个足控</b><br /> (要求惠惠舔她的脚作为菠萝包的交换条件)",
-					"argument-5": "粉丝都是变态或者很恶心的人",
-					"argument-6": "居然害怕青蛙 233~"
+					"argument-1": "<b>Is a sadist that only wants others to suffer</b>",
+					"argument-2": "Isn't likable in any way either",
+					"argument-3": "Unless you're also a sadist, but then you're a bad person",
+					"argument-4": "<b>Probably has a foot-fetishism</b> (she asked Satania to lick her feet for some melon bread)",
+					"argument-5": "Her fans are perverts AND horrible people",
+					"argument-6": "She's afraid of frogs lmao"
 				}
 			},
 			"vignette": {
-				"name": "维兹",
-				"name-detail": "月乃濑 · 艾普利尔<br /> <span lang=\"ja\">月乃瀬=ヴィネット=エイプリル</span>",
+				"name": "Vignette",
+				"name-detail": "Tsukinose April<br /> <span lang=\"ja\">月乃瀬=ヴィネット=エイプリル</span>",
 				"description": {
-					"argument-1": "<b>太无聊啦</b>",
-					"argument-2": "讲真，她从来不做任何有趣的事",
-					"argument-3": "太过一本正经",
-					"argument-4": "<b>喜欢她的唯一理由就是有点可爱</b>",
-					"argument-5": "<b>塑造这个形象就是为了加一点萌要素</b>",
-					"argument-6": "明明是一个恶魔却一点坏事都不做"
+					"argument-1": "<b>BOOOOOOORING</b>",
+					"argument-2": "No really, she never does anything interesting",
+					"argument-3": "Like, she's all normal and stuff",
+					"argument-4": "<b>People only like her because she's cute</b>",
+					"argument-5": "<b>She probably was just made to add more moe material</b>",
+					"argument-6": "Doesn't even TRY to be evil, even tho she's a DEMON"
 				}
 			}
 		}
 	},
 	"fanarts": {
-		"source": "链接",
-		"large-text": "可爱得一塌糊涂！<br />粉丝作品集",
-		"sub-text": "瞧啊，多么 cute ~ <noscript>图片轮播需要 JavaScript 支持 (～o￣3￣)～ </noscript>"
+		"source": "Source",
+		"large-text": "Fanarts that are impossibly&nbsp;kawaii!",
+		"sub-text": "Just look at this, this is adorable. <noscript>Slideshow requires JavaScript.</noscript>"
 	},
 	"autism": {
-		"large-text": "惠惠不是自闭症<br />别再那样说了",
-		"sub-text": "自闭症患者通常有社交障碍<br />自己躲在角落里自言自语<br />惠惠可不是这样<br /><b>至少不比你自闭吧</b>",
-		"small-text": "她在那集里说“我是”是因为达克尼斯逼她这么说的！"
+		"large-text": "Also, she's not an autist, stop&nbsp;saying&nbsp;that",
+		"sub-text": "Autistic people often have trouble communicating, staying quiet in their own corner all the time, Satania&nbsp;isn't like that at all.<br /><b>She's probably less autistic than you are!</b>",
+		"small-text": "And while she does say \"I'm thwee\" in that episode,<br /> it's because Raphiel made her say it!"
 	},
 	"pope-francis": {
-		"large-text": "甚至教皇弗朗西斯都喜欢惠惠",
-		"sub-text": "“惠惠在我心中是第二位的老婆，第一位当然是耶稣。<br />为惠惠及其支持者献上神的祝福！”"
+		"large-text": "Even Pope Francis loves Satania.",
+		"sub-text": "\"Satania is my number two waifu, the number one being Jesus of&nbsp;course!<br /> I bless her and all her followers!\""
 	},
 	"flipping-cards": {
-		"large-text": "她是取代动漫中所有老婆的存在",
-		"sub-text": "请你想一想吧，惠惠是可以完美替代《珈百璃的堕落》中的所有角色的<span class=\"small\">点击下面的卡片查看答案<noscript>没有 JavaScript 的话你什么都做不了 (～o￣3￣)～</noscript></span>",
+		"large-text": "She replaces all the other waifus in the show",
+		"sub-text": "When you think about it, Satania is a perfect alternative to every character in Gabriel Dropout…<span class=\"small\">Click on any of these cards to see the answers</span>",
 		"cards": {
 			"gabriel": {
-				"question": "你需要那种<br /> <b>不是很优秀<br />对周围的人完全不在意</b><br />认为自己的爱好比任何事都重要的女孩么？",
-				"answer": "那么你需要一只<br /><b> 不爱学习<br />不关心人类和天使<br />总是尝试做恶作剧</b>的惠惠<br /> 另外， <b>她还“故意”不写家庭作业……</b>"
+				"question": "Do you need a girl who <b>isn't very nice, doesn't care about anyone</b> and thinks her hobbies are more important than anything?",
+				"answer": "Then you need the demon who <b>doesn't care about humans and angels and is always trying to be evil</b>, rather than studying or something…<br /> Also, <b>she doesn't do her homework ON PURPOSE!!</b>"
 			},
 			"vigne": {
-				"question": "你喜欢<br /><b> 想要做恶作剧但是并不擅长</b> <br />反而变成做<br />像珈百璃本应该做的好事的<br /><b> 可爱又萌萌哒 </b><br />恶魔吗？",
-				"answer": "那你一定喜欢这只<br /><b> 野心成为最大恶魔 </b><br />但常常变成<b><br />做好事</b>的<br />惠惠<br />而且她一直都想好好给珈百璃“上一课”"
+				"question": "Would you like a <b>cute moe demon</b> that <b>wanna be evil, but is very bad at it</b>, ending up doing nice things like teaching stuff to Gabriel?",
+				"answer": "Then you'll probably like the <b>demon who is trying her best to become the greatest one</b>, but is frequently manipulated into <b>doing nice things</b>, even tho she is trying her best to teach Gabriel a good lesson…"
 			},
 			"raphiel": {
-				"question": "你想要一位<br /><b> 虽然外表很可爱 </b><br />但实际上<br /><b> 性格很扭曲 </b><br />喜欢看其他人不幸的女孩子吗？",
-				"answer": "那样的话<br />答案非惠惠<br />莫属！<br />因为一旦她成为<br />大恶魔<br /> <b> 很多人都会受伤或死亡吧 </b>……"
+				"question": "Do you want a girl that <b>looks cute</b>, but is actually <b>really mean</b> and only wants to see everyone suffer?",
+				"answer": "That sounds exactly like Satania! Because becoming the greatest Arch Demon the world has ever known, <b>probably implies hurting or killing a lot of people</b>…"
 			},
 			"satania": {
-				"question": "那么<br /><b> 全宇宙最强的大恶魔呢 </b>？"
+				"question": "How about the <b>greatest demon in the entire universe?</b>"
 			}
 		}
 	},
 	"raviolli-raviolli": {
-		"large-text": "嘤嘤嘤，嘤嘤嘤<br />请不要欺负我了",
-		"sub-text": "为什么要那样做？？？ <br />你到底有多抖 S 才能做出欺负她这种事啊？？？"
+		"large-text": "Ravioli, ravioli,<br />pls, no more bulli",
+		"sub-text": "Why would you do that??? How much of a sadist do you have to be to want to bulli her???"
 	},
 	"large-text": {
-		"large-text": "反正<br />她最后都要统治人类……",
-		"sub-text": "不管你喜不喜欢她，<br /> 成为惠惠的支持者<br />都是无法避免的命运……"
+		"large-text": "She's gonna rule over humanity anyway…",
+		"sub-text": "So, may you like her or not,<br /> you'll have to praise her eventually…"
 	},
 	"end": {
-		"large-text": "史上最强",
-		"sub-text": "以上"
+		"large-text": "She's the Best.",
+		"sub-text": "Period. The end."
 	},
 	"_javascriptLocales": {
-		"copyMessage": "惠惠总是和你在一起，甚至在你的剪切板里面！赶快成为我们的一员吧！\n事实上只要它想，任何网站都可以访问您的剪切板，有点可怕哦~ (⊙x⊙;) \n 不管怎么样，惠惠是最好的老婆，你就承认吧！ http://satania.moe/",
-		"searchByVoice": "233，没人会点这个按钮的啦",
-		"searchButton": "下面已经有结果了，不用再点了",
-		"searchBar": "你难道看不出来这是假的搜索框么？",
-		"snedHelp": "快住手~",
-		"perfection": "完美",
-		"searchBarName": "惠惠",
-		"newTab": "在新标签页中打开"
+		"copyMessage": "Just wanted to let you know that Satania is always with you! Even inside your clipboard! We are everywhere and you should really join us!\nAlso yes, any website can access your clipboard however they want, isn't that creepy?\nRegardless, Satania is the BEST WAIFU, and you should agree! http://satania.moe/",
+		"searchByVoice": "lmao, no one uses this button",
+		"searchButton": "but the results are already there =]",
+		"searchBar": "this isn't a real search bar",
+		"snedHelp": "pls send helppp",
+		"perfection": "perfection",
+		"searchBarName": "satania",
+		"newTab": "Link opens in a new tab."
 	}
 }
